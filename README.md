@@ -4,7 +4,7 @@ Welcome to my Profile!
 
 ## Well this is how I code(exist)
 <p align="center">
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Me coding" width="300"/>
+<img src="https://media.giphy.com/media/hEc4k5pN13e6Q/giphy.gif" alt="Me looking for bugs" width="300"/>
 </p>
 
 ## Tech Stack (AKA "Things I Google Daily")
