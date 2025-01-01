@@ -1,19 +1,23 @@
 Welcome to my Profile!
 
-"They say coding is 90% debugging and 10% writing bugs."
+"If you're reading this, you're probably lost in GitHub... but hey, at least you found someone who can center a div!"
 
-## Current Loading Status...
-| **Skill**               | **Current Level**       |
-|-------------------------|-------------------------|
-| Web Development         | Intermediate           |
-| Backend Development     | Intermediate           |
-| CLI Development         | Intermediate           |
-| App Development         | Beginner               |
-| Machine Learning        | Beginner               |
-| Cybersecurity & Crypto  | Beginner               |
-| DevOps                  | Beginner               |
+## Well this is how I code(exist)
+<p align="center">
+  <img src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" alt="Me Writing Code" width="280"/>
+  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif" alt="Me Debugging" width="280"/>
+  <img src="https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif" alt="Me in Production" width="280"/>
+</p>
 
-## Tech I Use When Stack Overflow Is Down
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Me trying to code" width="300"/>
+</p>
+
+<p align="center">
+  <i>"60% of the time, my code works every time"</i>
+</p>
+
+## Tech Stack (AKA "Things I Google Daily")
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -33,31 +37,44 @@ Welcome to my Profile!
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-## Stats (Because Numbers Matter, Sometimes)
+<div align="center">
+
+| **Skill**               | **Current Level**       |
+|-------------------------|-------------------------|
+| Web Development         | Intermediate           |
+| Backend Development     | Intermediate           |
+| CLI Development         | Intermediate           |
+| App Development         | Beginner               |
+| Machine Learning        | Beginner               |
+| Cybersecurity & Crypto  | Beginner               |
+| DevOps                  | Beginner               |
+
+</div>
+
+## Stats (Proof that I occasionally code)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keshavdadhichb&show_icons=true&theme=tokyonight)
 ![Streak Stats](https://streak-stats.demolab.com?user=keshavdadhichb&theme=tokyonight&hide_border=true)
 
-## LeetCode Progress (AKA My Daily Dose of Humility)
+## LeetCode Journey (It's not procrastination, it's strategic waiting)
 ![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=keshavdadhich&theme=dark)
 
-## Projects That Actually Work (Most of the Time)
+## Projects That Survived Production
 | Project | What It Does | Built With |
 |---------|-------------|------------|
 | [CLI-RPG](https://github.com/keshavdadhichb/cli-rpg) | A text adventure that occasionally adventures | Rust |
 | [Catalyst Backend](https://github.com/keshavdadhichb/catalyst-backend) | Connects students faster than their excuses | JavaScript |
 | [LeetCode Solutions](https://github.com/keshavdadhichb/leetcode-solutions) | Proof that I can solve problems | Python |
 
-## Find Me Here
-python
-contact_info = {
-"email": "keshavdadhichb7@gmail.com",
-"phone": "+91 7708186715",
-"leetcode": "keshavdadhich",
-"linkedin": "keshav-dadhich-2652611a9"
-}
+## Let's Connect! (Human Interaction Welcome)
+- Email: keshavdadhichb7@gmail.com
+- Phone: +91 7708186715
+- LeetCode: [keshavdadhich](https://leetcode.com/keshavdadhich)
+- LinkedIn: [Keshav Dadhich](https://www.linkedin.com/in/keshav-dadhich-2652611a9/)
 
-
-## Profile Views (Including My Debug Refreshes)
+## Visitor Count (Real Humans Only Please)
 ![Profile Views](https://komarev.com/ghpvc/?username=keshavdadhichb&style=flat-square&color=brightgreen)
+[![Unique Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkeshavdadhichb&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Unique+Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
-"In case of fire: git commit, git push, leave building"
+<p align="center">
+  "If at first you don't succeed; call it version 1.0"
+</p>
