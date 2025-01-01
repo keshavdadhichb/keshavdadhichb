@@ -6,13 +6,7 @@ Yes, I also exist irl:(
 ## Well this is how I code(exist)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif" alt="Sheldon Coding" width="280"/>
-  <img src="https://media.giphy.com/media/l4Ep5fOLX6zvISACo/giphy.gif" alt="Frustrated" width="280"/>
   <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="Given Up" width="280"/>
-</p>
-
-<p align="center">
-  <i>"Me: Starting to Code → Finding Bugs → After 100 Stack Overflow Searches"</i>
 </p>
 
 ## Tech Stack (AKA "Things I Google Daily")
