@@ -1,18 +1,18 @@
 Welcome to my Profile!
+Yes, I also exist irl:(
 
 "If you're reading this, you're probably lost in GitHub... but hey, at least you found someone who can center a div!"
 
 ## Well this is how I code(exist)
-## My Daily Coding Journey
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Sheldon Coding" width="280"/>
-  <img src="https://media.giphy.com/media/IPbS5R4fSUl5S/giphy.gif" alt="Frustrated" width="280"/>
-  <img src="https://media.giphy.com/media/B6SyssSlTgPXq/giphy.gif" alt="Given Up" width="280"/>
+  <img src="https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif" alt="Sheldon Coding" width="280"/>
+  <img src="https://media.giphy.com/media/l4Ep5fOLX6zvISACo/giphy.gif" alt="Frustrated" width="280"/>
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="Given Up" width="280"/>
 </p>
 
 <p align="center">
-  <i>Starting the Day → After Finding Bugs → When Nothing Works</i>
+  <i>"Me: Starting to Code → Finding Bugs → After 100 Stack Overflow Searches"</i>
 </p>
 
 ## Tech Stack (AKA "Things I Google Daily")
