@@ -3,8 +3,8 @@ Welcome to my Profile!
 "If you're reading this, you're probably lost in GitHub... but hey, at least you found someone who can center a div!"
 
 ## Well this is how I code(exist)
-<p align="center">
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Me coding" width="300"/>
+<<p align="center">
+  <img src="https://media.giphy.com/media/FcuiZUneg1YRAu1lH2/giphy.gif" alt="Office Space Rage" width="300"/>
 </p>
 
 ## Tech Stack (AKA "Things I Google Daily")
