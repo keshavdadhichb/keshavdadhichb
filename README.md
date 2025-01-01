@@ -4,17 +4,7 @@ Welcome to my Profile!
 
 ## Well this is how I code(exist)
 <p align="center">
-  <img src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" alt="Me Writing Code" width="280"/>
-  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif" alt="Me Debugging" width="280"/>
-  <img src="https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif" alt="Me in Production" width="280"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Me trying to code" width="300"/>
-</p>
-
-<p align="center">
-  <i>"60% of the time, my code works every time"</i>
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Me coding" width="300"/>
 </p>
 
 ## Tech Stack (AKA "Things I Google Daily")
