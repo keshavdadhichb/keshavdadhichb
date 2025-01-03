@@ -44,9 +44,10 @@ Yes, I also exist irl:(
 </div>
 
 ## Stats (Proof that I occasionally code)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keshavdadhichb&show_icons=true&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keshavdadhichb&count_private=true&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keshavdadhichb&layout=compact&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=keshavdadhichb&bg_color=1a1b27&color=ffffff&line=38d252&point=ffffff&area=true&hide_border=true)
+![Contributions](https://ghchart.rshah.org/38d252/keshavdadhichb)
 
 ## LeetCode Journey (It's not procrastination, it's strategic waiting)
 ![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=keshavdadhich&theme=dark)
