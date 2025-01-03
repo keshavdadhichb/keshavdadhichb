@@ -45,7 +45,10 @@ Yes, I also exist irl:(
 
 ## Stats (Proof that I occasionally code)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keshavdadhichb&show_icons=true&theme=tokyonight)
-![Streak Stats](https://streak-stats.demolab.com?user=keshavdadhichb&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=keshavdadhichb&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keshavdadhichb&layout=compact&theme=radical)
+
+
 
 ## LeetCode Journey (It's not procrastination, it's strategic waiting)
 ![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=keshavdadhich&theme=dark)
