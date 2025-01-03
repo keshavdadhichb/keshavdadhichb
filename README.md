@@ -45,20 +45,11 @@ Yes, I also exist irl:(
 
 ## Stats (Proof that I occasionally code)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keshavdadhichb&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=keshavdadhichb&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=keshavdadhichb&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keshavdadhichb&layout=compact&theme=radical)
-
-
 
 ## LeetCode Journey (It's not procrastination, it's strategic waiting)
 ![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=keshavdadhich&theme=dark)
-
-## Projects That Survived Production
-| Project | What It Does | Built With |
-|---------|-------------|------------|
-| [CLI-RPG](https://github.com/keshavdadhichb/cli-rpg) | A text adventure that occasionally adventures | Rust |
-| [Catalyst Backend](https://github.com/keshavdadhichb/catalyst-backend) | Connects students faster than their excuses | JavaScript |
-| [LeetCode Solutions](https://github.com/keshavdadhichb/leetcode-solutions) | Proof that I can solve problems | Python |
 
 ## Let's Connect! (Human Interaction Welcome)
 - Email: keshavdadhichb7@gmail.com
@@ -67,7 +58,6 @@ Yes, I also exist irl:(
 - LinkedIn: [Keshav Dadhich](https://www.linkedin.com/in/keshav-dadhich-2652611a9/)
 
 ## Visitor Count (Real Humans Only Please)
-![Profile Views](https://komarev.com/ghpvc/?username=keshavdadhichb&style=flat-square&color=brightgreen)
 [![Unique Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkeshavdadhichb&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Unique+Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <p align="center">
